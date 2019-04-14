@@ -1,0 +1,22 @@
+ Volume in drive D is HD_01
+ Volume Serial Number is 9250-F680
+
+ Directory of D:\projects\medicalOffice\controllers
+
+2019-04-14  11:29 AM    <DIR>          .
+2019-04-14  11:29 AM    <DIR>          ..
+2019-04-14  11:17 AM             3,390 CheckListController.js
+2019-04-14  11:18 AM             4,076 FirstAlertRespondersController.js
+2019-04-14  11:22 AM             3,422 MediaController.js
+2019-04-14  11:21 AM             4,328 MedicalConditionsCheckListController.js
+2019-04-14  11:19 AM             3,569 MedicalConditionsController.js
+2019-04-14  11:24 AM             3,687 MedicalConditionTipController.js
+2019-04-14  11:25 AM             3,264 PatientTipController.js
+2019-04-14  11:16 AM             3,820 PrescribedCheckListController.js
+2019-04-14  11:07 AM             3,224 userController.js
+2019-04-14  11:11 AM             3,188 VisitController.js
+2019-04-14  11:12 AM             3,594 VisitVitalSignsController.js
+2019-04-14  11:08 AM             3,158 VitalSignController.js
+2019-04-14  11:29 AM                 0 yan.txt
+              13 File(s)         42,720 bytes
+               2 Dir(s)  241,520,934,912 bytes free
